@@ -1,2 +1,2 @@
 - 👋 Hi, I’m Antonio Aranda Hernández
-- 👀 I’m interested in Machine Learning and Software
+- 👀 Software
